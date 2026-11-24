@@ -1,0 +1,10 @@
+dimension,issue,affected_products,pct_of_products,cumulative_pct
+Completeness,Ingredients missing,78765,67.5,43.4
+Completeness,Energy (kcal) missing,51929,44.5,72.1
+Validity,GS1 check digit invalid,23414,20.1,85.0
+Completeness,Brand missing,17768,15.2,94.8
+Consistency,Allergen field incomplete,4967,4.3,97.5
+Completeness,Product name missing,2760,2.4,99.0
+Consistency,kcal ≠ 4P+4C+9F,1151,1.0,99.7
+Validity,Non-standard barcode,415,0.4,99.9
+Validity,Impossible nutrient value,175,0.2,100.0
